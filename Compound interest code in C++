@@ -1,0 +1,15 @@
+#include <iostream>
+ #include <cmath>
+using namespace std;
+int main() {
+   float p, t, r, a, b, c;
+    
+   cin>>p>>t>>r;
+   a=1+r/100;
+   b=pow(a,t);
+   
+   c=(b-1)*p;
+   
+   cout<<c;
+   return 0;
+}
