@@ -22,11 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/c++-original.svg" height="30" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/c-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
