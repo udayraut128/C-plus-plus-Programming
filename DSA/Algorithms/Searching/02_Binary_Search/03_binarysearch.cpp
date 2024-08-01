@@ -20,7 +20,7 @@ int binarySearch(int arr[], int left, int right, int x)
             right = mid - 1;
     }
 
-    // x is not present in array
+    //If x is not present in array
     return -1;
 }
 
