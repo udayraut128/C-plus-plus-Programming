@@ -13,3 +13,6 @@ int main()
     greet();
     return 0;
 }
+
+// output
+// Hello, World!
