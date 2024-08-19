@@ -31,3 +31,8 @@ int main()
 
     return 0;
 }
+
+// output
+// Data appended to file successfully.
+
+// go to output folder and see in example.txt file

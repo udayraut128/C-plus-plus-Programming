@@ -23,3 +23,7 @@ int main()
 
     return 0;
 }
+
+//  hello
+
+// go to output folder and see in example.txt file
